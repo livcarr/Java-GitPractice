@@ -8,5 +8,4 @@ class Bedroom implements Room
     System.out.println("Size: " + printSqFt(size));
     System.out.println("Color scheme: " + printColorScheme(color));
     }
-  
 }
