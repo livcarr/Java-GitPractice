@@ -1,7 +1,7 @@
 Interface Room
 {
-  int sqFt;
-  String colorScheme;
+  void printSqFt(int sqFt);
+  void printColorScheme(String color);
   void changeRoom(Char 'a');
 }
 
